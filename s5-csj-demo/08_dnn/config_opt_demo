@@ -1,0 +1,11 @@
+## For demo script
+splice=5
+nn_depth=3
+hid_dim=256
+param_stddev_first=0.1
+param_stddev=0.1
+rbm_lrate=0.4
+rbm_lrate_low=0.01
+rbm_l2penalty=0.0002
+learn_rate=0.008
+momentum=1.0e-05
