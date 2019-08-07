@@ -1,6 +1,6 @@
 *軽量版librispeechレシピ説明書
 
-本ファイルを含むs5_demoディレクトリは，kaldi-trunk/egs/librispeechの下に置いてください。
+本ファイルを含むs5_demoディレクトリは，egs/librispeechの下に置いてください。
 
 本ディレクトリ下にあるスクリプトは、CSJレシピの各手順をステップ毎に実行出来る
 ようにしたものです。動作の説明を優先し、短い時間で処理が終わるようにlibrispeechの一部
